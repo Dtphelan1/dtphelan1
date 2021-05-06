@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Dylan! 👋
 
 My name is Dylan Phelan (he/him) and I'm a 🧑‍💻 senior software engineer @MITRE with +5 years of experience in full-stack development on 🏥 Health IT projects. I'm passionate about problems in public sector and healthcare domains, using my skills in 🕸web-development, 📈data visualization, and 👨‍🎨UI/UX design to build tools that help people make effective decisions. In May 2021, I received my CS Master's from Tufts University, where my study focused on 🤖 AI/ML and ⚖️ AI Ethics for public sector and healthcare applications.
 
