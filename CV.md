@@ -25,6 +25,15 @@ From GitHub
 
 ## Personal Projects 
 
+### Sorting Out the Bandcamp Merch Page
+
+- Problem: The purchasing experience on Bandcamp is poorly optimized for browsing, with out of stock items mixed together with current inventory and poorly distingushed visually
+- Solution: A Firefox browser extension that moves sold-out items to the bottom of the page, making them ghostly transparent to indicate their absence from the inventory.
+- Tools used: 
+  - web-ext NPM package: https://extensionworkshop.com/documentation/develop/web-ext-command-reference/#commands
+  - Code: https://github.com/Dtphelan1/bc-merch-sort-firefox-extension/blob/main/package.json
+  - Package: https://addons.mozilla.org/en-US/firefox/addon/bandcamp-merch-sorter/
+
 ### [Vote Smart Arlington](https://www.votesmartarlington.com/#/): Making Representative Voting Patterns Easier to Understand
 
 - Problem: Casting an informed ballot in local elections is difficult when information about candidates impact on local policy is difficult to access
@@ -86,7 +95,7 @@ From GitHub
   - PostgreSQL for our database
   - Hosted and deployed on AWS using Docker
 
-### Ethics of Software Engineering, 2021
+### Ethics of Software Engineering Tech Watcher, 2021
 
 - Role: PI and Investigator
 - This research work aimed 
@@ -103,7 +112,9 @@ From GitHub
 
 ### Open Series Coordinator, 2019-Present
 
-- Role: Project Lead
+- Role: Program Lead
+- Problem
+- Role:
 
 ### mCODE Extraction Framework: Bridging Existing Cancer Data with Emerging Standards, 2018-Present
 
@@ -128,19 +139,33 @@ From GitHub
   - React/SCSS/Material UI Front End
   - FHIR/mCODE for data modeling
 
-### Synthea Webpage: Synthetic but Realistic Patient Data
+### [Synthea Homepage](https://synthetichealth.github.io/synthea/): Sharing Synthetic, Realistic Patient Data (2017)
 
-- 
+- Designed and built   for advertising the MITRE's open source Synthea project, synthetic data pro
+- Technologies Used: 
+  - Material Design for Bootstrap
+  - Jekyll 
+  - 
 
-### MITRE's StandardHealthRecord.org: Sparking Community Engagement and Standards Development 
 
-- 
+### MITRE's StandardHealthRecord.org: Sparking Community Engagement and Standards Development (2016)
+
+- Problem: As MITRE brings together a community of stakeholders to improve data interoperability in healthcare, we need a digital presence for attracting a community of demonstrating our research on this issue and our progress in developing standards.
+- Solution: 
 
 ## Volunteer Work 
 
 ### Flipped Internship Program (2017-2020)
 
-### 
+- The Flipped Internship program was a volunteer STEM education program created in partnership with Burlington High School, where volunteers from a variety of industry fields assist BHS seniors on capstone projects; the program flips the traditional internship model by bringing mentors to students, with industry professionals from over a half dozen companies visiting the campus and providing support throughout their spring semester. 
+- My role was volunteer, mentor, and co-creator of the program, alongside Emily Holt from MITRE, Shereen Tyrell from BHS, and LeRoy Wong from BHS. Over several years we brought in over a dozen volunteers from MITRE and collectively provided hundreds of hours of volunteer time, working with students on building websites, designing games, 
+- The program was instrumental in BHS receiving a state-level educational grant to further support the program's success and scale, and was presented at a Mass STEM Education conference in 2018. 
+
+###Tufts Ethics Bowl, (2017 - Now)
+
+- The Intercollegiate Ethics Bowl is an annual competitive intercollegiate ethics debate tournament for university students in the US, 
+- Teams prepare an analysis of each case. During each competition  match, a case is selected from the set and a moderator poses questions  based on that case. These questions seek to delve deeper into the  multiple ethical dimensions of the case. A panel of judges probes  the teams for further justifications and evaluates answers. Rating  criteria are based on intelligibility, focus on ethically relevant  considerations, avoidance of ethical irrelevance, and deliberative  thoughtfulness.
+- After competing as an undergrad, I attended a few 
 
 ## Research Support
 
@@ -170,6 +195,8 @@ FLAIRS, 2019
 - Reviewed a proposal to the FLorida Artificial Intelligence Research Society  (FLAIRS) conference. Paper focused on evaluating machine learning  techniques on large datasets. More information on FLAIRS can be found here: http://www.flairs.com/
 
 ## Conferences Attended: 
+
+HL7 FHIR Connectathon, May 2022 (Gravity Track)
 
 HL7 FHIR Connectathon, Jan 2022 (Gravity Track)
 
