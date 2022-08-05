@@ -2,11 +2,31 @@
 
 108 Medford St, Apt 1, Arlington MA |  516 467 7691 | Dphelan1994@gmail.com
 
+Websites: 
+
+- [Tech Jobs for Good](https://techjobsforgood.com/)
+- [Cord](https://cord.co/candidate/account/u/candidate/94139)
+- [Untapped](https://www.untapped.io/app/profile/dylan-phelan)
+
+Links for Me: 
+
+- [Github](https://github.com/Dtphelan1)
+- [LinkedIn](https://www.linkedin.com/in/dtphelan1/)
+- [Personal Site](http://dylanphelan.tech/)
+
 ## About Me
+
+From Cord
+
+- Lead Frontend Engineer at MITRE; 6+ years experience in healthcare. ai ethics, and benefit delivery projects; looking for Boston/remote Frontend Developer positions in healthcare or civic technology domains.
 
 From MII
 
-- Experienced web developer (esp. React and Vue), Node.js backend developer, general purpose python developer, and project technical lead. Computer Science Master's focused on AI and AI Ethics. Quick learner. Mission driven. Passionate about building software to improve civic/healthcare programs. 
+- Experienced web developer (esp. React and Vue), Node.js backend developer, general purpose Python developer, and project technical lead. Computer Science MS, courses focused on Ethics. Quick learner. Mission driven. Passionate about building software to improve healthcare or civic technology programs. 
+
+From LinkedIn
+
+- Lead Frontend Engineer at MITRE with 6+ years experience in healthcare, ai ethics, and benefit delivery projects. Background includes web development (esp. React and Vue), Node.js backend development, general purpose python development, and project technical leadership. Computer Science Master's focused on AI and AI Ethics. Quick learner. Mission driven. Passionate about building software to improve healthcare or civic technology programs.
 
 From GitHub
 
@@ -71,7 +91,8 @@ From GitHub
 
 - Role:  Technical Lead and Lead Full-Stack Developer
 - Problem: Applying for benefits in America can be a repetitive, opaque, uncomfortable process for those seeking assistance. Complicated and fragmented UIs for various services have led to reports of poor user experience.
-- Research Question: Can the UX of 
+- Research Question: Can we measurably improve the visibility of system status, user control, and efficiency of use of unemployment benefits portals today? 
+- Accomplishments: Built functioning web prototype for entering unemployment information 
 
 ### [MITRE's Social Justice Platform Webpage](sjp.mitre.org)
 
