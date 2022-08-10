@@ -87,17 +87,37 @@ From GitHub
 
 ## Work Experience
 
+### mCODE Coverage Checker
+
+- Role: Technical Lead and Lead Frontend Developer 
+- Problem: There's no easy way to know how much of a new standard like mCODE is in use across hospital systems. As hospital systems adopt new data standards like mCODE it's difficult to track when/where those standards are adopted across sprawling infrastructure. What's more, technological support for a standard does not guarantee practical use across hospital operations. 
+- Solution: 
+
 ### Social Safety Net UI Prototype
 
 - Role:  Technical Lead and Lead Full-Stack Developer
 - Problem: Applying for benefits in America can be a repetitive, opaque, uncomfortable process for those seeking assistance. Complicated and fragmented UIs for various services have led to reports of poor user experience.
-- Research Question: Can we measurably improve the visibility of system status, user control, and efficiency of use of unemployment benefits portals today? 
-- Accomplishments: Built functioning web prototype for entering unemployment information 
+- Research Question: Can we measurably improve the visibility of system status, user control, and efficiency of use of unemployment benefits portals today?
+- Solution: Create a web application and conduct heuristic evaluations as well as usability studies to determine it's comparative performance against current offerings.
+- Outcomes: Implemented web prototype for applying for benefits based on designer mockups; worked closely with research team to ensure alignment between UI features and workflows;  researched potential pivots into alternative benefits spaces (e.g. SNAP), conducting semi-structured assessments of current online-application offerings
+- Technologies: 
+  - Vue/Nuxt3.0 for frontend 
+  - Tailwind CSS for styling 
+  - Express/Nuxt for proof of concept backend
+  - Gitlab CI/Docker for auto-deployment
 
 ### [MITRE's Social Justice Platform Webpage](sjp.mitre.org)
 
 - Role: Contributing Frontend Developer
 - Problem: MITRE does not have a unified hub for its multiple social justice research efforts; a website that  for communicating high-level takeaways from research efforts would broaden the impact 
+- Solution: Create a public webpage communicating MITRE projects in the social justice space, and create a backend admin dashboard so non-technical contributors can continue to update this content as MITRE's work grows. 
+- Outcomes: Supported the development of various admin and 
+- Technologies
+  - Vue/Nuxt2.0 for the admin dashboard
+  - EJS templates for the public webpages
+  - Bulma/SCSS for styling across the public site and the admin dashboard
+  - MongoDB/Mongoose for the database
+  - Nginx/Docker for application orchestration and routing together of various backend/frontend components
 
 ### RTTD Web Application Prototype
 
@@ -110,7 +130,7 @@ From GitHub
   - React (Create-React App) for our web framework
   - Tailwind CSS for the styling
   - Husky/Prettier/ESlint to reduce time spent pontificating on code styling
-  - GitHub Pages for publication (with GitHub workflows for automated deployment)
+  - GitHub Workflows/GitHub Pages for deployment 
 
 ### COVID-19 ICATT Pharmacy Finder Application (Oct 2021 - Jan 2022)
 
