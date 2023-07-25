@@ -4,7 +4,7 @@ My name is Dylan Phelan (he/him) and I'm a 🧑‍💻 senior web developer at B
 
 
 - I'm currently creating reference implementations envisioning how patients can access their electronic health information using FHIR's EHI Export API standard – learn [more here](https://ehi-app.herokuapp.com/). 
-- 🔭 Previously, I was improving oncology through healthcare standards like FHIR and mCODE – check out our work on the [mCODE Extraction Framework](https://github.com/mcode/mcode-extraction-framework).
+- 🔭 Previously [@MITRE](https://github.com/mitre), I was improving oncology through healthcare standards like FHIR and mCODE – check out our work on the [mCODE Extraction Framework](https://github.com/mcode/mcode-extraction-framework).
 - 🌱 I’m currently learning about systemic problems of fairness, accountability, transparency, power, and ethics in healthcare algorithms – and what technologists, regulators, and citizens can do to address them.
 - 👯 I’m looking to collaborate on local data transparency projects like my work on visualizing [Arlington Town Meeting Member voting histories](https://github.com/Dtphelan1/arlington-ma-town-member-voting) with [@GrahamGoudeau](https://github.com/GrahamGoudeau) and [@mgramigna](https://github.com/mgramigna)!
 - 📫 How to reach me: Email is preferred – dtphelan1\<\<at\>\>gmail\<\<dot\>\>com
